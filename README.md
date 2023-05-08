@@ -1,8 +1,6 @@
 # Django-Tutorial
 
 
-This is a template for a Django app. It includes the basic structure and files needed to get started with a new Django app.
-
 ## Installation
 
 1. Clone the repository:
